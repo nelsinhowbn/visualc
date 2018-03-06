@@ -1,0 +1,5 @@
+C:\Users\Aluno_2\Desktop\Nelson-VisualC\NelsonYoussif1\NelsonYoussif1\bin\Debug\NelsonYoussif1.exe
+C:\Users\Aluno_2\Desktop\Nelson-VisualC\NelsonYoussif1\NelsonYoussif1\bin\Debug\NelsonYoussif1.pdb
+C:\Users\Aluno_2\Desktop\Nelson-VisualC\NelsonYoussif1\NelsonYoussif1\obj\x86\Debug\NelsonYoussif1.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_2\Desktop\Nelson-VisualC\NelsonYoussif1\NelsonYoussif1\obj\x86\Debug\NelsonYoussif1.exe
+C:\Users\Aluno_2\Desktop\Nelson-VisualC\NelsonYoussif1\NelsonYoussif1\obj\x86\Debug\NelsonYoussif1.pdb

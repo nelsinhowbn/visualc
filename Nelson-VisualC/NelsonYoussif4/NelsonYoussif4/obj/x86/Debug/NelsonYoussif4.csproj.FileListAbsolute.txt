@@ -1,0 +1,4 @@
+C:\Users\Aluno_2\Desktop\Nelson-VisualC\NelsonYoussif4\NelsonYoussif4\bin\Debug\NelsonYoussif4.exe
+C:\Users\Aluno_2\Desktop\Nelson-VisualC\NelsonYoussif4\NelsonYoussif4\bin\Debug\NelsonYoussif4.pdb
+C:\Users\Aluno_2\Desktop\Nelson-VisualC\NelsonYoussif4\NelsonYoussif4\obj\x86\Debug\NelsonYoussif4.exe
+C:\Users\Aluno_2\Desktop\Nelson-VisualC\NelsonYoussif4\NelsonYoussif4\obj\x86\Debug\NelsonYoussif4.pdb

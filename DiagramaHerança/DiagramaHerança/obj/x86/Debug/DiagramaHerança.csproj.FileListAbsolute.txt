@@ -1,0 +1,8 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+G:\Desenvolvimento de Software\DiagramaHerança\DiagramaHerança\DiagramaHerança\bin\Debug\DiagramaHerança.exe
+G:\Desenvolvimento de Software\DiagramaHerança\DiagramaHerança\DiagramaHerança\bin\Debug\DiagramaHerança.pdb
+G:\Desenvolvimento de Software\DiagramaHerança\DiagramaHerança\DiagramaHerança\obj\x86\Debug\DiagramaHerança.exe
+G:\Desenvolvimento de Software\DiagramaHerança\DiagramaHerança\DiagramaHerança\obj\x86\Debug\DiagramaHerança.pdb

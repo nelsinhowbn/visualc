@@ -1,0 +1,14 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+F:\Prova\Prova\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Prova\Prova\bin\Debug\Prova.exe
+G:\Prova\Prova\bin\Debug\Prova.pdb
+G:\Prova\Prova\obj\x86\Debug\Prova.exe
+G:\Prova\Prova\obj\x86\Debug\Prova.pdb
+G:\NelsonYoussifProvaDSI\Prova\obj\x86\Debug\Prova.exe
+G:\NelsonYoussifProvaDSI\Prova\obj\x86\Debug\Prova.pdb
+G:\NelsonYoussifProvaDSI\Prova\bin\Debug\Prova.exe
+G:\NelsonYoussifProvaDSI\Prova\bin\Debug\Prova.pdb

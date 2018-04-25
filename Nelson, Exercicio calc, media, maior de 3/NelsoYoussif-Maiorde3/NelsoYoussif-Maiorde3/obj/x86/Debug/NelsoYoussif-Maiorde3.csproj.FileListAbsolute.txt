@@ -1,0 +1,9 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsoYoussif-Maiorde3\NelsoYoussif-Maiorde3\bin\Debug\NelsoYoussif-Maiorde3.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsoYoussif-Maiorde3\NelsoYoussif-Maiorde3\bin\Debug\NelsoYoussif-Maiorde3.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsoYoussif-Maiorde3\NelsoYoussif-Maiorde3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsoYoussif-Maiorde3\NelsoYoussif-Maiorde3\obj\x86\Debug\NelsoYoussif_Maiorde3.Form1.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsoYoussif-Maiorde3\NelsoYoussif-Maiorde3\obj\x86\Debug\NelsoYoussif_Maiorde3.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsoYoussif-Maiorde3\NelsoYoussif-Maiorde3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsoYoussif-Maiorde3\NelsoYoussif-Maiorde3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsoYoussif-Maiorde3\NelsoYoussif-Maiorde3\obj\x86\Debug\NelsoYoussif-Maiorde3.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsoYoussif-Maiorde3\NelsoYoussif-Maiorde3\obj\x86\Debug\NelsoYoussif-Maiorde3.pdb

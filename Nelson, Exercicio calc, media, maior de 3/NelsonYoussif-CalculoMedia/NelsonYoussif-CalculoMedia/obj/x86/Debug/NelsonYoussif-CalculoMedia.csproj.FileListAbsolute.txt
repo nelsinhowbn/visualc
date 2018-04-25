@@ -1,0 +1,18 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-CalculoMedia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-CalculoMedia\obj\x86\Debug\NelsonYoussif_CalculoMedia.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-CalculoMedia\obj\x86\Debug\NelsonYoussif_CalculoMedia.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-CalculoMedia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-CalculoMedia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-CalculoMedia\bin\Debug\NelsonYoussif-CalculoMedia.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-CalculoMedia\bin\Debug\NelsonYoussif-CalculoMedia.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-CalculoMedia\obj\x86\Debug\NelsonYoussif-CalculoMedia.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-CalculoMedia\obj\x86\Debug\NelsonYoussif-CalculoMedia.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsonYoussif-CalculoMedia\NelsonYoussif-CalculoMedia\obj\x86\Debug\NelsonYoussif-CalculoMedia.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsonYoussif-CalculoMedia\NelsonYoussif-CalculoMedia\obj\x86\Debug\NelsonYoussif-CalculoMedia.pdb
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-CalculoMedia\NelsonYoussif-CalculoMedia\bin\Debug\NelsonYoussif-CalculoMedia.exe
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-CalculoMedia\NelsonYoussif-CalculoMedia\bin\Debug\NelsonYoussif-CalculoMedia.pdb
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-CalculoMedia\NelsonYoussif-CalculoMedia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-CalculoMedia\NelsonYoussif-CalculoMedia\obj\x86\Debug\NelsonYoussif_CalculoMedia.Form1.resources
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-CalculoMedia\NelsonYoussif-CalculoMedia\obj\x86\Debug\NelsonYoussif_CalculoMedia.Properties.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-CalculoMedia\NelsonYoussif-CalculoMedia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-CalculoMedia\NelsonYoussif-CalculoMedia\obj\x86\Debug\GenerateResource.write.1.tlog

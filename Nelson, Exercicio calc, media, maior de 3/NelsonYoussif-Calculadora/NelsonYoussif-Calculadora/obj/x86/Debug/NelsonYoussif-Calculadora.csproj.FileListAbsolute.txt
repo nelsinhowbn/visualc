@@ -1,0 +1,18 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Calculadora\bin\Debug\NelsonYoussif-Calculadora.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Calculadora\bin\Debug\NelsonYoussif-Calculadora.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Calculadora\obj\x86\Debug\NelsonYoussif_Calculadora.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Calculadora\obj\x86\Debug\NelsonYoussif_Calculadora.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Calculadora\obj\x86\Debug\NelsonYoussif-Calculadora.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Calculadora\obj\x86\Debug\NelsonYoussif-Calculadora.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsonYoussif-Calculadora\NelsonYoussif-Calculadora\obj\x86\Debug\NelsonYoussif-Calculadora.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsonYoussif-Calculadora\NelsonYoussif-Calculadora\obj\x86\Debug\NelsonYoussif-Calculadora.pdb
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-Calculadora\NelsonYoussif-Calculadora\bin\Debug\NelsonYoussif-Calculadora.exe
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-Calculadora\NelsonYoussif-Calculadora\bin\Debug\NelsonYoussif-Calculadora.pdb
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-Calculadora\NelsonYoussif-Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-Calculadora\NelsonYoussif-Calculadora\obj\x86\Debug\NelsonYoussif_Calculadora.Form1.resources
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-Calculadora\NelsonYoussif-Calculadora\obj\x86\Debug\NelsonYoussif_Calculadora.Properties.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-Calculadora\NelsonYoussif-Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\NelsonYoussif-Calculadora\NelsonYoussif-Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog

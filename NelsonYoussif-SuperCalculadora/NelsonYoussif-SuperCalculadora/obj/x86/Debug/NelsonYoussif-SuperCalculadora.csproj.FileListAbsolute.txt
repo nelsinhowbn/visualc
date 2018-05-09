@@ -1,0 +1,28 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-SuperCalculadora\bin\Debug\NelsonYoussif-SuperCalculadora.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-SuperCalculadora\bin\Debug\NelsonYoussif-SuperCalculadora.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-SuperCalculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif_SuperCalculadora.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif_SuperCalculadora.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-SuperCalculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-SuperCalculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif-SuperCalculadora.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif-SuperCalculadora.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif-SuperCalculadora.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif-SuperCalculadora.pdb
+G:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif-SuperCalculadora.exe
+G:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif-SuperCalculadora.pdb
+G:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\bin\Debug\NelsonYoussif-SuperCalculadora.exe
+G:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\bin\Debug\NelsonYoussif-SuperCalculadora.pdb
+G:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif-SuperCalculadora.csprojResolveAssemblyReference.cache
+G:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif_SuperCalculadora.Form1.resources
+G:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif_SuperCalculadora.Properties.Resources.resources
+G:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif-SuperCalculadora.csproj.GenerateResource.Cache
+E:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif-SuperCalculadora.exe
+E:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif-SuperCalculadora.pdb
+E:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\bin\Debug\NelsonYoussif-SuperCalculadora.exe
+E:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\bin\Debug\NelsonYoussif-SuperCalculadora.pdb
+E:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif_SuperCalculadora.Form1.resources
+E:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\NelsonYoussif_SuperCalculadora.Properties.Resources.resources
+E:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\NelsonYoussif-SuperCalculadora\NelsonYoussif-SuperCalculadora\obj\x86\Debug\GenerateResource.write.1.tlog

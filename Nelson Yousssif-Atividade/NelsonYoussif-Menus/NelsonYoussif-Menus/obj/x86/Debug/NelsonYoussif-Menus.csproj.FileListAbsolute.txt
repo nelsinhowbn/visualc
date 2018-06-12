@@ -1,0 +1,62 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmMenu.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Menus\bin\Debug\NelsonYoussif-Menus.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Menus\bin\Debug\NelsonYoussif-Menus.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmTeste1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmTeste2.resources
+C:\Users\Aluno\Desktop\Nelson menu\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.exe
+C:\Users\Aluno\Desktop\Nelson menu\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.pdb
+C:\Users\Aluno\Desktop\Nelson menu\NelsonYoussif-Menus\NelsonYoussif-Menus\bin\Debug\NelsonYoussif-Menus.exe
+C:\Users\Aluno\Desktop\Nelson menu\NelsonYoussif-Menus\NelsonYoussif-Menus\bin\Debug\NelsonYoussif-Menus.pdb
+C:\Users\Aluno\Desktop\Nelson menu\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmMenu.resources
+C:\Users\Aluno\Desktop\Nelson menu\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmTeste1.resources
+C:\Users\Aluno\Desktop\Nelson menu\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmTeste2.resources
+C:\Users\Aluno\Desktop\Nelson menu\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nelson menu\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.csproj.GenerateResource.Cache
+G:\Desenvolvimento de Software\Nelson menu\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.exe
+G:\Desenvolvimento de Software\Nelson menu\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.pdb
+C:\Users\Aluno\Desktop\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.exe
+C:\Users\Aluno\Desktop\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.pdb
+C:\Users\Aluno\Desktop\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmMenu.resources
+C:\Users\Aluno\Desktop\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmTeste1.resources
+C:\Users\Aluno\Desktop\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmTeste2.resources
+C:\Users\Aluno\Desktop\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Properties.Resources.resources
+C:\Users\Aluno\Desktop\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\NelsonYoussif-Menus\NelsonYoussif-Menus\bin\Debug\NelsonYoussif-Menus.exe
+C:\Users\Aluno\Desktop\NelsonYoussif-Menus\NelsonYoussif-Menus\bin\Debug\NelsonYoussif-Menus.pdb
+C:\Users\Aluno\Desktop\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Exercicio3.resources
+C:\Users\Aluno\Desktop\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Exercicio4.resources
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.exe
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.pdb
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\bin\Debug\NelsonYoussif-Menus.exe
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\bin\Debug\NelsonYoussif-Menus.pdb
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Exercicio3.resources
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Exercicio4.resources
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Exercicio5.resources
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmMenu.resources
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmTeste1.resources
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmTeste2.resources
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Properties.Resources.resources
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.csproj.GenerateResource.Cache
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Exercicio6.resources
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.exe
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.pdb
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\bin\Debug\NelsonYoussif-Menus.exe
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\bin\Debug\NelsonYoussif-Menus.pdb
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Exercicio3.resources
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Exercicio4.resources
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Exercicio5.resources
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Exercicio6.resources
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmMenu.resources
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmTeste1.resources
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.frmTeste2.resources
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Properties.Resources.resources
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Desenvolvimento de Software\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif_Menus.Exercicio7.resources
+C:\Users\Aluno\Desktop\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.exe
+C:\Users\Aluno\Desktop\Nelson Yousssif-Atividade\NelsonYoussif-Menus\NelsonYoussif-Menus\obj\x86\Debug\NelsonYoussif-Menus.pdb

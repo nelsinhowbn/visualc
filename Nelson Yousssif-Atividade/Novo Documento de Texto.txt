@@ -1,0 +1,23 @@
+     label1.Text = "";
+            if (System.Convert.ToDouble(textBox1.Text) % 2 == 0 || System.Convert.ToDouble(textBox1.Text) % 5 == 0 || System.Convert.ToDouble(textBox1.Text) % 10 == 0) ;
+            {
+                label1.Text = "É divisivel por";
+
+            }
+
+            if (System.Convert.ToDouble(textBox1.Text) % 2 == 0)
+            {
+                label1.Text += "2 ";
+            }
+            if (System.Convert.ToDouble(textBox1.Text) % 5 == 0)
+            {
+                label1.Text += "5 ";
+            }
+
+
+            if (System.Convert.ToDouble(textBox1.Text) % 10 == 0)
+            {
+                label1.Text += "10 ";
+            }
+        
+        
